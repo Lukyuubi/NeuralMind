@@ -1,5 +1,5 @@
 # NeuralMind
-##Introdução
+## Introdução
 Este relatório visa o informar a trajetória e o contato inicial de um chatbot para responder a perguntas de vestibular usando processamento de linguagem natural (NLP) e recuperação de informações de documentos PDF. O código utiliza várias bibliotecas, incluindo streamlit para a interface do usuário, langchain para o pipeline de processamento de documentos e recuperação, e OpenAI para geração de embeddings e Llama3 como llm para respostas.
 
 ## Visão Geral
